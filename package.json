@@ -1,0 +1,12 @@
+{
+  "name": "claude-multi-account",
+  "version": "1.2.0",
+  "description": "Use several Claude subscriptions with the official Claude Code (CLI and VS Code extension): log in once per account, switch manually, auto-switch on usage limit.",
+  "bin": { "ccm": "ccm.js" },
+  "files": ["ccm.js", "README.md", "LICENSE"],
+  "engines": { "node": ">=16" },
+  "keywords": ["claude", "claude-code", "anthropic", "multi-account", "vscode", "cli"],
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/dev-sahab/claude-multi-account-use.git" },
+  "homepage": "https://github.com/dev-sahab/claude-multi-account-use#readme"
+}
